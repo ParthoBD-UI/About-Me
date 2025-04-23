@@ -1,4 +1,3 @@
-# About-Me
 ## 👋 Hi, I’m Partho (UI/UX Designer)
 
 I’m a passionate UI/UX Designer who loves creating beautiful and user-friendly mobile app interfaces using **Figma** and **Canva**.  
